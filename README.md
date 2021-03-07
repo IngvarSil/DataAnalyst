@@ -19,3 +19,4 @@ Project Name |  libraries
 Провести аналитику поведения пользователей мобильного приложения, сделать А/А/В тестирование, чтобы оценить предложения отдела маркетинга    |  pandas, numpy, seaborn, matplotlib.pyplot, plotly.express, plotly, scipy, math
 Создать интерактивный дашборд, который сможет отвечать на основные вопросы отдела маркетинга     |  pandas, sqlalchemy, dash, Tableau public
 Исследовать данные из журнала посещений фитнес центра и определить основные параметры, которые влияют на отток посетителей    |  pandas, seaborn, matplotlib.pyplot, plotly.express, scipy, sklearn
+Магистрская диссертация на тему "Прогнозирование производства сельскохозяйственных культур с использованием машинного обучения"    |  pandas, numpy, statsmodels, matplotlib.pyplot, itertools, pmdarima, sklearn, warnings, keras
